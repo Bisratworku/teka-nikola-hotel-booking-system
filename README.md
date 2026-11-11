@@ -1,4 +1,4 @@
-#Teka-nikola-hotel-booking-system
+# Teka-nikola-hotel-booking-system
 A full-stack hotel reservation and management system built with **PHP** and **MySQL**.  
 Designed to streamline hotel operations with **multi-role authentication** for Guests, Staff, and Administrators.
 
