@@ -1,0 +1,88 @@
+.hero{
+    background-color: red;
+    background: url("https://images.pexels.com/photos/271618/pexels-photo-271618.jpeg?auto=compress&cs=tinysrgb&h=900");
+}
+.hero-card{
+    border: none;
+    background: transparent;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+.center{
+    text-align: center;
+}
+.center p{
+    color: white;
+}
+.h{
+    background: url("https://images.pexels.com/photos/271639/pexels-photo-271639.jpeg?auto=compress&cs=tinysrgb&w=1400");
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+.room{
+    background: transparent;
+}
+.room-card{
+    border: none;
+    background: transparent;
+    text-align: center;
+}
+.card{
+    border: none;
+    background: transparent;
+}
+.dine{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+    background: url("https://images.pexels.com/photos/262978/pexels-photo-262978.jpeg?auto=compress&cs=tinysrgb&w=1400");
+    background-size: cover;
+}
+#dine{
+    background-color: black;   
+}
+#amenities{
+    background: url("imgs/valeriia-bugaiova-_pPHgeHz1uk-unsplash.jpg");
+    background-size: cover;
+}
+#explore{
+    background-color: black;
+}
+.amen-card{
+    border: none;
+    background: transparent;
+}
+
+.color{
+    background: url("https://images.pexels.com/photos/5371575/pexels-photo-5371575.jpeg");
+    background-size: cover;
+    display: flex;
+    justify-content: center;
+    text-align: center;
+}
+.relax{
+    background: url("https://images.pexels.com/photos/261102/pexels-photo-261102.jpeg");
+    background-size: cover;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    text-align: center;
+}
+.comfort{
+    background: url("https://images.pexels.com/photos/277572/pexels-photo-277572.jpeg");
+    background-size: cover;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    text-align: center;
+}
+.view{
+    background: url("https://images.pexels.com/photos/2507010/pexels-photo-2507010.jpeg?auto=compress&cs=tinysrgb&w=1400");
+    background-size: cover;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    text-align: center;
+}
