@@ -1,5 +1,4 @@
-#  Hotel Management System
-
+#Teka-nikola-hotel-booking-system
 A full-stack hotel reservation and management system built with **PHP** and **MySQL**.  
 Designed to streamline hotel operations with **multi-role authentication** for Guests, Staff, and Administrators.
 
@@ -40,5 +39,5 @@ Designed to streamline hotel operations with **multi-role authentication** for G
 
 ### 1) Clone the repository
 ```bash
-git clone https://github.com/kkotey14/hotel-management-system.git
-cd hotel-management-system
+git clone https://github.com/Bisratworku/teka-nikola-hotel-booking-system.git
+cd teka-nikola-hotel-booking-system
